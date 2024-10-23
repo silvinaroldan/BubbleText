@@ -1,0 +1,40 @@
+{
+  "advancedEditorSelectedIdentifier" : "ProjectBrowser",
+  "openSceneRelativePaths" : [
+    "BubbleScene.usda"
+  ],
+  "recentIdentifiers" : {
+    "AB96A789-DD9E-4291-91B4-314361AB227B" : [
+
+    ]
+  },
+  "sceneCameraHistory" : {
+    "AB96A789-DD9E-4291-91B4-314361AB227B" : [
+      {
+        "date" : 751294534.996102,
+        "title" : "Untitled",
+        "transform" : [
+          0.99951726,
+          2.5063418e-10,
+          -0.031067684,
+          0,
+          -0.03104876,
+          0.03489959,
+          -0.9989084,
+          0,
+          0.0010842485,
+          0.99939084,
+          0.0348827,
+          0,
+          -0.050082806,
+          1.0183762,
+          -0.5177367,
+          1
+        ]
+      }
+    ]
+  },
+  "sceneViewportBackgroundColors" : {
+
+  }
+}
