@@ -17,6 +17,7 @@ struct BubbleTextApp: App {
             ContentView()
                 .environment(appModel)
         }
+        .defaultSize(width: 0.4, height: 0.3, depth: 0.3, in: .meters)
 
         ImmersiveSpace(id: appModel.immersiveSpaceID) {
             ImmersiveView()
